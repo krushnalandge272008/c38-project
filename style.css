@@ -1,0 +1,7 @@
+html, body {
+  margin: 90;
+  padding: 110;
+}
+canvas {
+  display: block;
+}
